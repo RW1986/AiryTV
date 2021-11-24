@@ -1,0 +1,73 @@
+#EXTM3U8
+#EXTINF:-1 tvg-id="509" tvg-chno="20",Polo Mania TV
+https://hls.airy.tv/stream/11/airy.m3u8
+#EXTINF:-1 tvg-id="437" tvg-chno="50",World Poker Tour
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-AiryTV/120.m3u8
+#EXTINF:-1 tvg-id="502" tvg-chno="53",Poker Night
+https://d2ac29vaob351i.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/PokerNight-AiryTV/216.m3u8
+#EXTINF:-1 tvg-id="343" tvg-chno="70",FOQUS TV
+https://uml1.origin.blendtv.ca/1257682625_rstid954415/index.m3u8
+#EXTINF:-1 tvg-id="524" tvg-chno="80",Winnies World TV
+https://hls.airy.tv/stream/20/airy.m3u8
+#EXTINF:-1 tvg-id="526" tvg-chno="81",iHolyfield TV
+https://hls.airy.tv/stream/26/airy.m3u8
+#EXTINF:-1 tvg-id="527" tvg-chno="82",iCowboy TV
+https://hls.airy.tv/stream/27/airy.m3u8
+#EXTINF:-1 tvg-id="528" tvg-chno="83",iJemTV
+https://hls.airy.tv/stream/28/airy.m3u8
+#EXTINF:-1 tvg-id="529" tvg-chno="84",Thought Network TV
+https://hls.airy.tv/stream/29/airy.m3u8
+#EXTINF:-1 tvg-id="530" tvg-chno="85",Thought Network Primetime TV
+https://hls.airy.tv/stream/30/airy.m3u8
+#EXTINF:-1 tvg-id="531" tvg-chno="86",iSCIFI TV
+https://hls.airy.tv/stream/31/airy.m3u8
+#EXTINF:-1 tvg-id="507" tvg-chno="92",AXS TV Now
+https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-id="508" tvg-chno="93",Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-id="536" tvg-chno="99",ThailandTV
+https://hls.airy.tv/stream/33/airy.m3u8
+#EXTINF:-1 tvg-id="515" tvg-chno="100",Burst Network
+https://hls.airy.tv/stream/10/airy.m3u8
+#EXTINF:-1 tvg-id="516" tvg-chno="102",Zoo Animal Antics
+https://hls.airy.tv/stream/23/airy.m3u8
+#EXTINF:-1 tvg-id="535" tvg-chno="103",Frontliners TV
+https://hls.airy.tv/stream/32/airy.m3u8
+#EXTINF:-1 tvg-id="522" tvg-chno="114",JSP
+https://hls.airy.tv/stream/17/airy.m3u8
+#EXTINF:-1 tvg-id="513" tvg-chno="325",WLN: Wrestling Legends Network
+https://hls.airy.tv/stream/14/airy.m3u8
+#EXTINF:-1 tvg-id="439" tvg-chno="33",New Films International
+https://hls.airy.tv/stream/11/airy.m3u8
+#EXTINF:-1 tvg-id="523" tvg-chno="120",4 Ace TV
+https://hls.airy.tv/stream/18/airy.m3u8
+#EXTINF:-1 tvg-id="510" tvg-chno="702",Horrormax
+https://hls.airy.tv/stream/13/airy.m3u8
+#EXTINF:-1 tvg-id="520" tvg-chno="720",Film Star TV
+https://hls.airy.tv/stream/16/airy.m3u8
+#EXTINF:-1 tvg-id="537" tvg-chno="62",Exploration and Food
+https://hls.airy.tv/stream/34/airy.m3u8
+#EXTINF:-1 tvg-id="512" tvg-chno="703",Wild America TV
+https://hls.airy.tv/stream/19/airy.m3u8
+#EXTINF:-1 tvg-id="517" tvg-chno="789",Test
+https://hls.airy.tv/stream/9/airy.m3u8
+#EXTINF:-1 tvg-id="503" tvg-chno="210",France 24
+http://static.france24.com/live/F24_EN_HI_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-id="514" tvg-chno="525",Stream Go TV
+https://hls.airy.tv/stream/21/airy.m3u8
+#EXTINF:-1 tvg-id="442" tvg-chno="41",GFNTV
+https://d3jxchypmk8fja.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/GFNTV-AiryTV/169.m3u8
+#EXTINF:-1 tvg-id="443" tvg-chno="42",Hard Knocks
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-AiryTV/121.m3u8
+#EXTINF:-1 tvg-id="445" tvg-chno="44",Middle America TV
+https://d3uttqpw4wyvc.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/MiddleAmerica-AiryTV/196.m3u8
+#EXTINF:-1 tvg-id="446" tvg-chno="45",Ski TV
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-AiryTV/193.m3u8
+#EXTINF:-1 tvg-id="457" tvg-chno="49",Allied Esports
+https://d1lvmtqnqngsrn.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/AlliedESports-SportsTribal/213.m3u8
+#EXTINF:-1 tvg-id="416" tvg-chno="51",Nashville Country TV
+https://d2w1tfvqo2ceap.cloudfront.net/hls/hls.m3u8
+#EXTINF:-1 tvg-id="328" tvg-chno="506",Spydar TV
+https://simultv.s.llnwi.net/n4s4/Spydar/interlink.m3u8
+#EXTINF:-1 tvg-id="532" tvg-chno="730",Legend Films
+https://hls.airy.tv/stream/24/airy.m3u8
